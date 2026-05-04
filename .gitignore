@@ -1,0 +1,24 @@
+# Local-only originals
+_originals/
+
+# Data and model artefacts
+data/
+models/
+checkpoints/
+lightning_logs/
+YOLOv11_Training/
+*.pth
+*.ckpt
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+
+# Notebook scratch
+.ipynb_checkpoints/
