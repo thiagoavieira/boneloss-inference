@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1229260484.svg)](https://doi.org/10.5281/zenodo.20089015)
+
 # Bone-Loss Segmentation
 
 > **Status — code accompanying research articles currently under peer review.**
