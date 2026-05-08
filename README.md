@@ -1,6 +1,9 @@
-[![DOI](https://zenodo.org/badge/1229260484.svg)](https://doi.org/10.5281/zenodo.20089015)
-
 # Bone-Loss Segmentation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20089015.svg)](https://doi.org/10.5281/zenodo.20089015)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+
 
 > **Status — code accompanying research articles currently under peer review.**
 > This repository is released for methodological transparency and
